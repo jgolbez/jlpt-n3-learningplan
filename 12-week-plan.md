@@ -24,15 +24,45 @@
 
 ## Weekly Specialization Schedule
 
-| Day | Focus Area | Activity |
-|-----|------------|----------|
-| Monday | Technical Vocabulary | Create/review networking terms Anki deck |
-| Tuesday | Grammar Drilling | Intensive Bunpro practice |
-| Wednesday | Technical Vocabulary | AWS/cloud terminology acquisition |
-| Thursday | Grammar Drilling | Pattern recognition exercises |
-| Friday | Technical Vocabulary | Business communication phrases |
-| Saturday | Intensive Reading | Time-tracked manga sessions |
-| Sunday | Speaking Prep | Prepare for tutor session |
+# Week A: Reading Focus Schedule
+
+| Day | Hour 1: Foundation Block (60min) | Hour 2: Application Block (60min) |
+|-----|----------------------------------|-----------------------------------|
+| **Monday** | • 20min Anki<br>• 20min WaniKani<br>• 20min Bunpro | • 40min Manga reading + sentence mining<br>• 20min Technical vocabulary (networking terms) |
+| **Tuesday** | • 20min Anki<br>• 20min WaniKani<br>• 20min Bunpro | • 40min Manga reading + sentence mining<br>• 20min Extra Bunpro grammar drilling |
+| **Wednesday** | • 20min Anki<br>• 20min WaniKani<br>• 20min Bunpro | • 40min Manga reading + sentence mining<br>• 20min Technical vocabulary (AWS/cloud terms) |
+| **Thursday** | • 20min Anki<br>• 20min WaniKani<br>• 20min Bunpro | • 40min Manga reading + sentence mining<br>• 20min Extra Bunpro grammar drilling |
+| **Friday** | • 20min Anki<br>• 20min WaniKani<br>• 20min Bunpro | • 40min Manga reading + sentence mining<br>• 20min Technical vocabulary (business communication) |
+| **Saturday** | • 20min Anki<br>• 20min WaniKani<br>• 20min Bunpro | • 60min Intensive timed manga reading session |
+| **Sunday** | • 20min Anki<br>• 20min WaniKani<br>• 20min Bunpro | • 40min Manga reading + sentence mining<br>• 20min Speaking prep for tutor session |
+
+
+# Week B: Listening Focus Schedule
+
+| Day | Hour 1: Foundation Block (60min) | Hour 2: Application Block (60min) |
+|-----|----------------------------------|-----------------------------------|
+| **Monday** | • 20min Anki<br>• 20min WaniKani<br>• 20min Bunpro | • 40min Comprehensible Japanese + shadowing<br>• 20min Technical vocabulary (networking terms) |
+| **Tuesday** | • 20min Anki<br>• 20min WaniKani<br>• 20min Bunpro | • 40min Comprehensible Japanese + shadowing<br>• 20min Extra Bunpro grammar drilling |
+| **Wednesday** | • 20min Anki<br>• 20min WaniKani<br>• 20min Bunpro | • 40min Comprehensible Japanese + shadowing<br>• 20min Technical vocabulary (AWS/cloud terms) |
+| **Thursday** | • 20min Anki<br>• 20min WaniKani<br>• 20min Bunpro | • 40min Comprehensible Japanese + shadowing<br>• 20min Extra Bunpro grammar drilling |
+| **Friday** | • 20min Anki<br>• 20min WaniKani<br>• 20min Bunpro | • 40min Comprehensible Japanese + shadowing<br>• 20min Technical vocabulary (business communication) |
+| **Saturday** | • 20min Anki<br>• 20min WaniKani<br>• 20min Bunpro | • 60min Intensive listening session (podcasts/anime) |
+| **Sunday** | • 20min Anki<br>• 20min WaniKani<br>• 20min Bunpro | • 40min Comprehensible Japanese + shadowing<br>• 20min Speaking prep for tutor session |
+
+# Week C: Speaking Focus Schedule
+
+| Day | Hour 1: Foundation Block (60min) | Hour 2: Application Block (60min) |
+|-----|----------------------------------|-----------------------------------|
+| **Monday** | • 20min Anki<br>• 20min WaniKani<br>• 20min Bunpro | • 40min Self-recording + speaking practice<br>• 20min Technical vocabulary (networking terms) |
+| **Tuesday** | • 20min Anki<br>• 20min WaniKani<br>• 20min Bunpro | • 40min Self-recording + speaking practice<br>• 20min Extra Bunpro grammar drilling |
+| **Wednesday** | • 20min Anki<br>• 20min WaniKani<br>• 20min Bunpro | • 40min Self-recording + speaking practice<br>• 20min Technical vocabulary (AWS/cloud terms) |
+| **Thursday** | • 20min Anki<br>• 20min WaniKani<br>• 20min Bunpro | • 40min Self-recording + speaking practice<br>• 20min Extra Bunpro grammar drilling |
+| **Friday** | • 20min Anki<br>• 20min WaniKani<br>• 20min Bunpro | • 40min Self-recording + speaking practice<br>• 20min Technical vocabulary (business communication) |
+| **Saturday** | • 20min Anki<br>• 20min WaniKani<br>• 20min Bunpro | • 60min Intensive speaking practice session |
+| **Sunday** | • 20min Anki<br>• 20min WaniKani<br>• 20min Bunpro | • 40min Self-recording + speaking practice<br>• 20min Speaking prep for tutor session |
+
+## 3-Week Rotation Cycle
+**Week A → Week B → Week C → Week A** (repeats)
 
 ## ADHD Management Protocol
 
